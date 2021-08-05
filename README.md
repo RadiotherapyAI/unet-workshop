@@ -1,5 +1,11 @@
 # U-Net Workshop
 
-This repository contains the notebook used within an ACPSEM Workshop undergone on the 13th July 2021. The Colab link to the notebook is available at:
+This repository contains the notebook used within an ACPSEM Workshop undergone on the 13th July 2021.
 
-https://colab.research.google.com/github/RadiotherapyAI/unet-workshop/blob/a1c54d89b6f108e83f216fc574754106f7392c83/unet.ipynb
+## Static version
+
+https://github.com/RadiotherapyAI/unet-workshop/blob/4595ed6be68134ce3707e8628d2532a8a1119ea9/unet.ipynb
+
+## Interactive version
+
+https://colab.research.google.com/github/RadiotherapyAI/unet-workshop/blob/4595ed6be68134ce3707e8628d2532a8a1119ea9/unet.ipynb
